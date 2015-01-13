@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">3000 từ vựng</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">3000 Từ Vựng</string>
+    <string name="country_prompt">Category</string>
+    <string-array name="country_arrays">
+        <item>All</item>
+        <item>(v)</item>
+        <item>(adj)</item>
+        <item>(n)</item>
+        <item>(ad v)</item>
+        <item>(adv)</item>
+    </string-array>
+
+</resources>
